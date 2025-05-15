@@ -1,0 +1,8 @@
+=== config/kpi-baselines.json ===
+```json
+{
+  "femspeak": { "minSaveRate": 5, "minCompletion": 70 },
+  "mindtonic": { "minSaveRate": 4, "minCompletion": 65 },
+  "cozyhouse": { "minSaveRate": 6, "minCompletion": 75 },
+  "luxeloop": { "minSaveRate": 3, "minCompletion": 60 }
+}
